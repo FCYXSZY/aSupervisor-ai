@@ -18,14 +18,14 @@
 ## 文件结构
 
 .
-├── data/ # 放置训练图片
-│ ├── 12_example.jpg
-│ ├── 45_sample.png
-│ └── ...
-├── model/
-│ └── resnet50_regression.pth # 训练好的模型文件
-├── train.py # 训练脚本（你的代码）
-└── README.md # 项目说明文件
+├── data/ # 放置训练图片      
+│ ├── 12_example.jpg        
+│ ├── 45_sample.png        
+│ └── ...        
+├── model/              
+│ └── resnet50_regression.pth # 训练好的模型文件         
+├── train.py # 训练脚本（你的代码）         
+└── README.md # 项目说明文件            
 
 yaml
 复制代码
